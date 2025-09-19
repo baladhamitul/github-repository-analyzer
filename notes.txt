@@ -1,0 +1,2 @@
+python -m src.app pandas-dev/pandas --since 2025-08-01 --charts
+python -m src.app --gui

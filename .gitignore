@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+# tooling
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+# project data
+data/cache/
+data/exports/
+# OS
+.DS_Store
